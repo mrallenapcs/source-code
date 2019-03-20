@@ -1,0 +1,16 @@
+[
+{
+  "modid": "apcsfinal",
+  "name": "APCs Final Mod",
+  "description": "Made for our final project for Mr. Allen's AP Computer Science.",
+  "version": "Beta 1.0",
+  "mcversion": "1.12.x",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["XtraSalt, DankBonkRips"],
+  "credits": "Erik Cullen and Jeremy Martin, Mr. Allen for teaching us. :)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
